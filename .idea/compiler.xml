@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="next-innovation.bot-code" />
+        <module name="next-innovation.bot-core" />
+        <module name="next-innovation.bot-security" />
+        <module name="next-innovation.bot.core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="next-innovation.bot-code" target="1.8" />
+      <module name="next-innovation.bot-core" target="1.8" />
+      <module name="next-innovation.bot-security" target="1.8" />
+      <module name="next-innovation.bot.core" target="1.8" />
+      <module name="NextInnovationBot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NextInnovationBot.iml" filepath="$PROJECT_DIR$/NextInnovationBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/next-innovation.bot-code/next-innovation.bot-code.iml" filepath="$PROJECT_DIR$/next-innovation.bot-code/next-innovation.bot-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/next-innovation.bot-core/next-innovation.bot-core.iml" filepath="$PROJECT_DIR$/next-innovation.bot-core/next-innovation.bot-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/next-innovation.bot.core/next-innovation.bot-core.iml" filepath="$PROJECT_DIR$/next-innovation.bot.core/next-innovation.bot-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/next-innovation.bot-security/next-innovation.bot-security.iml" filepath="$PROJECT_DIR$/next-innovation.bot-security/next-innovation.bot-security.iml" />
+    </modules>
+  </component>
+</project>
